@@ -38,7 +38,33 @@ Este proyecto representa un sistema integral para la gestión de la producción 
 
 ## Estructura de Archivos
 
-/Sistema-produccion-cafe │ ├── CasosDeUso │ ├── Caso de uso extendido completo.pdf │ ├── Casos de uso completo.pdf │ ├── Casos de uso normal.pdf │ └── Formulario Analisis de Caso de usos.xlsx │ ├── SRS │ └── SRS.docx │ ├── Diagramas │ ├── Diagrama de actividades Sistema de produccion de café.pdf │ ├── Diagrama de actividades corregido.EAP │ ├── Diagrama de diseño sistema produccion de café.pdf │ ├── Diagrama de dominio cafe.pdf │ ├── Diagrama de modelo cafe.EAP │ ├── Diagrama de secuencia campesino.pdf │ ├── Diagrama de secuencia compra de café.pdf │ ├── Secuencia Recolector café.pdf │ ├── Secuencia negociacion trilladora.pdf │ └── diagramasDeObjetocafe.drawio │ ├── DocumentosAdicionales │ ├── Vision.docx │ ├── Sistema de produccion de café.pptx │ ├── Sistema produccion de cafe.EAP │ └── Sistema produccion de cafe.ldb │ ├── README.md └── History
+/Sistema-produccion-cafe
+├── CasosDeUso
+│   ├── Caso de uso extendido completo.pdf
+│   ├── Casos de uso completo.pdf
+│   ├── Casos de uso normal.pdf
+│   └── Formulario Analisis de Caso de usos.xlsx
+├── SRS
+│   └── SRS.docx
+├── Diagramas
+│   ├── Diagrama de actividades Sistema de produccion de café.pdf
+│   ├── Diagrama de actividades corregido.EAP
+│   ├── Diagrama de diseño sistema produccion de café.pdf
+│   ├── Diagrama de dominio cafe.pdf
+│   ├── Diagrama de modelo cafe.EAP
+│   ├── Diagrama de secuencia campesino.pdf
+│   ├── Diagrama de secuencia compra de café.pdf
+│   ├── Secuencia Recolector café.pdf
+│   ├── Secuencia negociacion trilladora.pdf
+│   └── diagramasDeObjetocafe.drawio
+├── DocumentosAdicionales
+│   ├── Vision.docx
+│   ├── Sistema de produccion de café.pptx
+│   ├── Sistema produccion de cafe.EAP
+│   └── Sistema produccion de cafe.ldb
+├── README.md
+└── History
+
 
 ## Desarrolladores
 
