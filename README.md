@@ -44,8 +44,8 @@ Este proyecto representa un sistema integral para la gestión de la producción 
 
 Este proyecto fue desarrollado por:
 
-- **[Tu Nombre]** - Responsable del diseño y desarrollo del sistema, así como de la documentación.
-- **[Nombre de tu Compañero]** - Colaborador en el diseño y desarrollo del sistema.
+- **Jose David Arias Pantoja** - Responsable del diseño y desarrollo del sistema, así como de la documentación.
+- **Milton Alberto Quintero** - Colaborador en el diseño y desarrollo del sistema.
 
 ## Cómo Usar
 
@@ -54,9 +54,10 @@ Este proyecto fue desarrollado por:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 
 ## Contacto
 
-Para más información, puedes contactarme en [tu correo electrónico] o visitar mi perfil en [LinkedIn/GitHub].
+Para más información, puedes contactarme en joseariaspantoj@gmail.com o visitar mi perfil en [LinkedIn/GitHub].
 
