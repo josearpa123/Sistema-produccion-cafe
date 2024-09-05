@@ -40,6 +40,13 @@ Este proyecto representa un sistema integral para la gestión de la producción 
 
 /Sistema-produccion-cafe │ ├── CasosDeUso │ ├── Caso de uso extendido completo.pdf │ ├── Casos de uso completo.pdf │ ├── Casos de uso normal.pdf │ └── Formulario Analisis de Caso de usos.xlsx │ ├── SRS │ └── SRS.docx │ ├── Diagramas │ ├── Diagrama de actividades Sistema de produccion de café.pdf │ ├── Diagrama de actividades corregido.EAP │ ├── Diagrama de diseño sistema produccion de café.pdf │ ├── Diagrama de dominio cafe.pdf │ ├── Diagrama de modelo cafe.EAP │ ├── Diagrama de secuencia campesino.pdf │ ├── Diagrama de secuencia compra de café.pdf │ ├── Secuencia Recolector café.pdf │ ├── Secuencia negociacion trilladora.pdf │ └── diagramasDeObjetocafe.drawio │ ├── DocumentosAdicionales │ ├── Vision.docx │ ├── Sistema de produccion de café.pptx │ ├── Sistema produccion de cafe.EAP │ └── Sistema produccion de cafe.ldb │ ├── README.md └── History
 
+## Desarrolladores
+
+Este proyecto fue desarrollado por:
+
+- **[Tu Nombre]** - Responsable del diseño y desarrollo del sistema, así como de la documentación.
+- **[Nombre de tu Compañero]** - Colaborador en el diseño y desarrollo del sistema.
+
 ## Cómo Usar
 
 1. Clona el repositorio: `git clone https://github.com/josearpa123/Sistema-produccion-cafe.git`
@@ -52,3 +59,4 @@ Este proyecto está licenciado bajo la Licencia [Nombre de la Licencia]. Consult
 ## Contacto
 
 Para más información, puedes contactarme en [tu correo electrónico] o visitar mi perfil en [LinkedIn/GitHub].
+
