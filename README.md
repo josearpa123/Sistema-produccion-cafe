@@ -85,5 +85,5 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para más información, puedes contactarme en joseariaspantoj@gmail.com o visitar mi perfil en [LinkedIn/GitHub].
+Para más información, puedes contactarme en joseariaspantoj@gmail.com o visitar mi perfil en https://www.linkedin.com/in/jose-david-arias-pantoja-791b011a2/.
 
